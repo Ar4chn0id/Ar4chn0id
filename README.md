@@ -13,6 +13,3 @@ I'm currently learning Python and Go Programming languages.<br>I'm interested in
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Turquesa53&theme=radical&no-frame=true&no-bg=false&margin-w=4)
----
